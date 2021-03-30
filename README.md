@@ -10,7 +10,7 @@ Append to the end of nbviewer url:
 
 ### jupyter notebooks
 
-jupyter nbconvert --to html notebook_name.ipynb  
+- jupyter nbconvert --to html notebook_name.ipynb  
 
 This file sets the layout of the notebook
-C:\Installs\Python388\Lib\site-packages\notebook\static\style\style.min.css  
+- C:\Installs\Python388\Lib\site-packages\notebook\static\style\style.min.css  
